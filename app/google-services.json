@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "164802338104",
+    "project_id": "testproject-b947e",
+    "storage_bucket": "testproject-b947e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164802338104:android:b984e97b2a5f874fe9f5cd",
+        "android_client_info": {
+          "package_name": "com.example.rajasinghemovies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164802338104-vnl7itlo8g5etqm20p9hjdmpfb7ueu36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP4Jz2rFbFboGEwlOL9aqTrhJB-3gr6MM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164802338104-vnl7itlo8g5etqm20p9hjdmpfb7ueu36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
